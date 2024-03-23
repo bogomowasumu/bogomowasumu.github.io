@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bogomowasumu.github.io/sitemap.xml
